@@ -1,0 +1,13 @@
+
+div p{color:blue;}
+
+
+p{
+	color:rgb(16, 19, 19);
+}
+.read {color:yellow;}
+p.read {color:aqua;}
+.book2 > span {color:rgb(19, 207, 28);}
+.spisok ~ span {color:rgb(165, 42, 159);}
+.power {color:yellowgreen;}
+#wow{color: rgb(245, 9, 48);}
